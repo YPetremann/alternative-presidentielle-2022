@@ -1,37 +1,63 @@
-## Welcome to GitHub Pages
+# L'Alternative
 
-You can use the [editor on GitHub](https://github.com/YPetremann/alternative-presidentielle-2022/edit/main/docs/index.md) to maintain and preview the content for your website in Markdown files.
+La france à un problème de représentation, au jour où seul un cinquiéme de la population est représenté, où les gens décident de ne plus voter parce qu'ils pensent que leur voix n'est pas exprimée.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Il existe des solutions :
+- Pour garantir au moins 50% de satisfaction
+- Pour garantir que le vote est bien pris en compte
+- Pour affaiblir le vote strategique
+- Pour affaiblir la nécéssité de voter blanc ou de s'abstenir
 
-### Markdown
+Pour cela il est nécéssaire de :
+- moderniser la procédure de vote : Passer par un système de vote electronique couplé au vote classique
+- moderniser le système de vote : Passer du Scrutin Majoritaire a deux tours au Jugement Majoritaire à 50%
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## Moderniser la procedure de vote : Procédure de vote éléctronique couplé au vote classique
 
-```markdown
-Syntax highlighted code block
+### Avant le Vote
 
-# Header 1
-## Header 2
-### Header 3
+Chaque personne à la possibilité d'imprimer son propre ticket de vote
 
-- Bulleted
-- List
+### Au bureau de vote
 
-1. Numbered
-2. List
+A la place des buletins classique, nous aurions dans l'isoloir une machine electronique qui 
+- affiche un numéro unique
+- permettre à la personne de faire son choix 
+- imprimer deux buletins identiques avec à la fois écrit en clair et en clair dans un QRcode scannable facilement:
+    - le numéro unique
+    - le choix effectué
+Un de ces bulletins est fait pour être mis sous plis dans l'urne, tandit que l'autre est fait pour être gardé par l'élécteur.
+Ces buletins de vote peuvent avoir été imprimé à l'avance pour les personnes souhaitant faire un vote par procuration.
 
-**Bold** and _Italic_ and `Code` text
+Lorsque l'on met dans l'urne et que l'on émarge, l'electeur ou l'agent va aussi barrer un qrcode se trouvant sur sa liste dans le but de ne plus être lisible.
 
-[Link](url) and ![Image](src)
-```
+### Durant la dépouille
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+La dépouile reste manuelle, avec seulement une étape suplémentaire, à l'ouverture de l'enveloppe, l'agent scanne le QRcode du buletin, le scanneur indique si le vote à bien été scanné via un indicateur vert, mal scanné en orange ou déja validé en rouge. le reste est effectué de manière classique ce qui permet à la depouille manuelle et éléctronique de s'entre-valider.
 
-### Jekyll Themes
+Pendant ce temps un agent sera en charge de scanner la liste des electeurs des QRcodes pour y enregistrer tout élécteur ne s'étant pas présenté.
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/YPetremann/alternative-presidentielle-2022/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+La cohérence entre les résultats par la dépouille manuelle et par la dépouille éléctronique permet de réduire la possibilité d'une manipulation lors de l'une des dépouilles
 
-### Support or Contact
+### Après la dépouille
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+Tout citoyen à le droit d'écceder à deux listes publiques accessible clairement.
+Elles n'ont aucun lien, ne sont pas datés. En prime elle sont triés alphabétiquement par leurs données dans l'ordre.
+La première liste contient seulement dans cette ordre : le numéro de département, le nom et prénom complet.
+La seconde liste contient seulement les mêmes informations que les tickets dans cette ordre : le numéro unique et le choix effectué.
+
+Un programme facilement accessible au code source libre, publique, clair et facilement reproductible est aussi fourni affin de faciliter la lecture des listes.
+Il permettrait :
+- de vérifier le décompte et donc le résultat éléctoral
+- de vérifier que le nombre d'électeurs est égal au nombre de votes
+- de verifier sa présence ou celle d'un proche sur la list des élécteurs
+- de vérifier la présence et la cohérence de son vote sur la seconde
+
+Cela permet de garantir par exemple qu'un proche n'ayant pu voter ne soit présent, que notre vote n'aie été modifié ou encore d'autres situations.
+
+### Conclusion
+
+Avec cette procédure de vote nous augmentons la garantie que chaque vote est vraiment exprimé.
+Si en plus nous couplons cela avec un système de vote comme le jugement majoritaire à 50%, il n'y a du coup aucune raison d'abstention ou de voter blanc, et démontre clairement que l'absence d'un élécteur serait du à l'impossibilité de voter.
+
+## Moderniser le système de vote : Jugement Majoritaire à 50%
