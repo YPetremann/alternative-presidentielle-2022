@@ -22,8 +22,8 @@ Chaque personne à la possibilité d'imprimer son propre ticket de vote
 
 ### Au bureau de vote
 
-<div class="columns">
-    <div class="column buletin-graphics">
+<div class="columns sticky">
+    <div class="column graphics Buletin-graphics ">
         <div class="Buletin Buletin--tilt">
             <pre class="QRcode">
 ██████████████    ██  ██        ██  ██████████████
