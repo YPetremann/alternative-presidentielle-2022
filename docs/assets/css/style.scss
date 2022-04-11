@@ -2,8 +2,9 @@
 ---
 
 .Buletin{
-    width:150px;
-    height:100px;
+    display: flex;
+    width: 150px;
+    height: 100px;
     box-shadow: 0 0 10px black;
     &--tilt {
         transform: rotate(10deg);
@@ -11,6 +12,5 @@
 }
 .QRcode{
     line-height: 1;
-    transform: scaleX(2);
-    transform-origin: left;
+    font-size: 2px;
 }
