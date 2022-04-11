@@ -5,11 +5,11 @@
 
 #header_wrap {
     background: #212121;
-    background: -moz-linear-gradient(top, #002654,#002654 33%,#FFFFFF 33%,#FFFFFF 66%,#CE1126 66%,#CE1126);
-    background: -webkit-linear-gradient(top, #002654,#002654 33%,#FFFFFF 33%,#FFFFFF 66%,#CE1126 66%,#CE1126);
-    background: -ms-linear-gradient(top, #002654,#002654 33%,#FFFFFF 33%,#FFFFFF 66%,#CE1126 66%,#CE1126);
-    background: -o-linear-gradient(top, #002654,#002654 33%,#FFFFFF 33%,#FFFFFF 66%,#CE1126 66%,#CE1126);
-    background: linear-gradient(to right, #002654,#002654 33%,#FFFFFF 33%,#FFFFFF 66%,#CE1126 66%,#CE1126);
+    background-image: -moz-linear-gradient(bottom, #0009,#0001) -moz-linear-gradient(right, #002654,#002654 33%,#FFFFFF 33%,#FFFFFF 66%,#CE1126 66%,#CE1126);
+    background-image: -webkit-linear-gradient(bottom, #0009,#0001) -webkit-linear-gradient(right, #002654,#002654 33%,#FFFFFF 33%,#FFFFFF 66%,#CE1126 66%,#CE1126);
+    background-image: -ms-linear-gradient(bottom, #0009,#0001) -ms-linear-gradient(right, #002654,#002654 33%,#FFFFFF 33%,#FFFFFF 66%,#CE1126 66%,#CE1126);
+    background-image: -o-linear-gradient(bottom, #0009,#0001) -o-linear-gradient(right, #002654,#002654 33%,#FFFFFF 33%,#FFFFFF 66%,#CE1126 66%,#CE1126);
+    background-image: linear-gradient(to bottom, #0009,#0001) linear-gradient(to right, #002654,#002654 33%,#FFFFFF 33%,#FFFFFF 66%,#CE1126 66%,#CE1126);
 }
 
 .columns{
