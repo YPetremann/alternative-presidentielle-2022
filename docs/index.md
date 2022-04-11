@@ -22,6 +22,8 @@ Chaque personne à la possibilité d'imprimer son propre ticket de vote
 
 ### Au bureau de vote
 
+<div class="columns">
+<div class="column">
 <div class="Buletin Buletin--tilt">
 <pre class="QRcode">
 ██████████████    ██  ██        ██  ██████████████
@@ -55,6 +57,8 @@ Chaque personne à la possibilité d'imprimer son propre ticket de vote
 Mr Hercule Poireau
 </pre>
 </div>
+</div>
+<div class="column">
 A la place des buletins classique, nous aurions dans l'isoloir une machine electronique qui 
 - affiche un numéro unique
 - permettre à la personne de faire son choix 
@@ -65,6 +69,8 @@ Un de ces bulletins est fait pour être mis sous plis dans l'urne, tandit que l'
 Ces buletins de vote peuvent avoir été imprimé à l'avance pour les personnes souhaitant faire un vote par procuration.
 
 Lorsque l'on met dans l'urne et que l'on émarge, l'electeur ou l'agent va aussi barrer un qrcode se trouvant sur sa liste dans le but de ne plus être lisible.
+</div>
+</div>
 
 ### Durant la dépouille
 
