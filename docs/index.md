@@ -106,3 +106,4 @@ Si en plus nous couplons cela avec un système de vote comme le jugement majorit
 
 ## Moderniser le système de vote : Jugement Majoritaire à 50%
 
+[Link to another page](./compare.md).
