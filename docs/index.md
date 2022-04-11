@@ -59,19 +59,19 @@ Chaque personne à la possibilité d'imprimer son propre ticket de vote
         </div>
     </div>
     <div class="column">
-        <p> A la place des buletins classique, nous aurions dans l'isoloir une machine electronique qui :
+        <p> A la place des buletins classique, nous aurions dans l'isoloir une machine electronique qui :</p>
         <ul>
-            <li> affiche un numéro unique
-            <li> permettre à la personne de faire son choix 
-            <li> imprimer deux buletins identiques avec à la fois écrit en clair et en clair dans un QRcode scannable facilement:
+            <li> affiche un numéro unique </li>
+            <li> permettre à la personne de faire son choix </li>
+            <li> imprimer deux buletins identiques avec à la fois écrit en clair et en clair dans un QRcode scannable facilement:</li>
             <ul>
-                <li> le numéro unique
-                <li> le choix effectué
+                <li> le numéro unique</li>
+                <li> le choix effectué</li>
             </ul>
         </ul>
-        <p> Un de ces bulletins est fait pour être mis sous plis dans l'urne, tandit que l'autre est fait pour être gardé par l'élécteur.
-        <p> Ces buletins de vote peuvent avoir été imprimé à l'avance pour les personnes souhaitant faire un vote par procuration.
-        <p> Lorsque l'on met dans l'urne et que l'on émarge, l'electeur ou l'agent va aussi barrer un qrcode se trouvant sur sa liste dans le but de ne plus être lisible.
+        <p> Un de ces bulletins est fait pour être mis sous plis dans l'urne, tandit que l'autre est fait pour être gardé par l'élécteur.</p>
+        <p> Ces buletins de vote peuvent avoir été imprimé à l'avance pour les personnes souhaitant faire un vote par procuration.</p>
+        <p> Lorsque l'on met dans l'urne et que l'on émarge, l'electeur ou l'agent va aussi barrer un qrcode se trouvant sur sa liste dans le but de ne plus être lisible.</p>
     </div>
 </div>
 
