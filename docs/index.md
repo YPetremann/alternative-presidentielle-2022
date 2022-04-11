@@ -25,7 +25,7 @@ Chaque personne à la possibilité d'imprimer son propre ticket de vote
 <div class="columns sticky">
     <div class="column graphics Buletin-graphics ">
         <div class="Buletin Buletin--tilt">
-            <pre class="QRcode">
+            <div class="QRcode">
 ██████████████    ██  ██        ██  ██████████████
 ██          ██  ████        ████    ██          ██
 ██  ██████  ██    ████      ████    ██  ██████  ██
@@ -51,7 +51,7 @@ Chaque personne à la possibilité d'imprimer son propre ticket de vote
 ██  ██████  ██  ██████  ██  ██████████          ██
 ██          ██  ██  ██  ██  ████    ██████        
 ██████████████  ██████  ████  ██  ██      ██    ██
-            </pre>
+            </div>
             <div>
                 123 456 789 123<br/>
                 Mr Hercule Poireau
