@@ -1,0 +1,9 @@
+---
+---
+
+.Buletin{
+    box-shadow: 0 0 10px black;
+    &--tilt {
+        transform: rotate(20deg);
+    }
+}
