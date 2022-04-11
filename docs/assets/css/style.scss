@@ -1,6 +1,14 @@
 ---
 ---
 
+.columns{
+    display:flex;
+    .column{
+        min-width:320px;
+        width:320px;
+        flex-grow:1;
+    }
+}
 .Buletin{
     display: flex;
     width: 200px;

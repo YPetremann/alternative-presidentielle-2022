@@ -23,53 +23,56 @@ Chaque personne à la possibilité d'imprimer son propre ticket de vote
 ### Au bureau de vote
 
 <div class="columns">
-<div class="column">
-<div class="Buletin Buletin--tilt">
-<pre class="QRcode">
-██████████████    ██  ██        ██  ██████████████
-██          ██  ████        ████    ██          ██
-██  ██████  ██    ████      ████    ██  ██████  ██
-██  ██████  ██  ██  ██  ██████      ██  ██████  ██
-██  ██████  ██    ██████    ██████  ██  ██████  ██
-██          ██  ██████  ████  ██    ██          ██
-██████████████  ██  ██  ██  ██  ██  ██████████████
-                  ████████    ██                  
-██████████  ████████      ██████  ██  ██  ██  ██  
-  ██      ██    ██    ██          ██    ██    ████
-  ████  ██████████  ██    ██  ██  ██      ████████
-██    ██  ██    ██      ██  ██      ██    ██  ████
-    ██  ██  ██  ██████████████████  ██  ██████  ██
-██  ██    ██          ██    ██  ████        ████  
-██  ██  ██  ████  ██        ████████████████████  
-██  ██  ████          ██    ██████  ████          
-██  ██  ████████      ████████  ████████████    ██
-                ██  ████  ██  ████      ██████  ██  
-██████████████  ██      ██  ██████  ██  ██        
-██          ██    ████  ██      ██      ████████  
-██  ██████  ██  ████      ████████████████    ████
-██  ██████  ██  ████          ████  ████████    ██
-██  ██████  ██  ██████  ██  ██████████          ██
-██          ██  ██  ██  ██  ████    ██████        
-██████████████  ██████  ████  ██  ██      ██    ██
-</pre>
-<pre>
-123 456 789 123
-Mr Hercule Poireau
-</pre>
-</div>
-</div>
-<div class="column">
-A la place des buletins classique, nous aurions dans l'isoloir une machine electronique qui 
-- affiche un numéro unique
-- permettre à la personne de faire son choix 
-- imprimer deux buletins identiques avec à la fois écrit en clair et en clair dans un QRcode scannable facilement:
-    - le numéro unique
-    - le choix effectué
-Un de ces bulletins est fait pour être mis sous plis dans l'urne, tandit que l'autre est fait pour être gardé par l'élécteur.
-Ces buletins de vote peuvent avoir été imprimé à l'avance pour les personnes souhaitant faire un vote par procuration.
-
-Lorsque l'on met dans l'urne et que l'on émarge, l'electeur ou l'agent va aussi barrer un qrcode se trouvant sur sa liste dans le but de ne plus être lisible.
-</div>
+    <div class="column">
+        <div class="Buletin Buletin--tilt">
+            <pre class="QRcode">
+            ██████████████    ██  ██        ██  ██████████████
+            ██          ██  ████        ████    ██          ██
+            ██  ██████  ██    ████      ████    ██  ██████  ██
+            ██  ██████  ██  ██  ██  ██████      ██  ██████  ██
+            ██  ██████  ██    ██████    ██████  ██  ██████  ██
+            ██          ██  ██████  ████  ██    ██          ██
+            ██████████████  ██  ██  ██  ██  ██  ██████████████
+                            ████████    ██                  
+            ██████████  ████████      ██████  ██  ██  ██  ██  
+            ██      ██    ██    ██          ██    ██    ████
+            ████  ██████████  ██    ██  ██  ██      ████████
+            ██    ██  ██    ██      ██  ██      ██    ██  ████
+                ██  ██  ██  ██████████████████  ██  ██████  ██
+            ██  ██    ██          ██    ██  ████        ████  
+            ██  ██  ██  ████  ██        ████████████████████  
+            ██  ██  ████          ██    ██████  ████          
+            ██  ██  ████████      ████████  ████████████    ██
+                            ██  ████  ██  ████      ██████  ██  
+            ██████████████  ██      ██  ██████  ██  ██        
+            ██          ██    ████  ██      ██      ████████  
+            ██  ██████  ██  ████      ████████████████    ████
+            ██  ██████  ██  ████          ████  ████████    ██
+            ██  ██████  ██  ██████  ██  ██████████          ██
+            ██          ██  ██  ██  ██  ████    ██████        
+            ██████████████  ██████  ████  ██  ██      ██    ██
+            </pre>
+            <pre>
+                123 456 789 123
+                Mr Hercule Poireau
+            </pre>
+        </div>
+    </div>
+    <div class="column">
+        <p> A la place des buletins classique, nous aurions dans l'isoloir une machine electronique qui :
+        <ul>
+            <li> affiche un numéro unique
+            <li> permettre à la personne de faire son choix 
+            <li> imprimer deux buletins identiques avec à la fois écrit en clair et en clair dans un QRcode scannable facilement:
+            <ul>
+                <li> le numéro unique
+                <li> le choix effectué
+            </ul>
+        </ul>
+        <p> Un de ces bulletins est fait pour être mis sous plis dans l'urne, tandit que l'autre est fait pour être gardé par l'élécteur.
+        <p> Ces buletins de vote peuvent avoir été imprimé à l'avance pour les personnes souhaitant faire un vote par procuration.
+        <p> Lorsque l'on met dans l'urne et que l'on émarge, l'electeur ou l'agent va aussi barrer un qrcode se trouvant sur sa liste dans le but de ne plus être lisible.
+    </div>
 </div>
 
 ### Durant la dépouille
