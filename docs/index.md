@@ -25,6 +25,32 @@ Chaque personne à la possibilité d'imprimer son propre ticket de vote
 <pre class="Buletin Buletin--tilt">
 123 456 789 123
 Mr Hercule Poireau
+<pre class="QRcode">
+███████  █ █    █ ███████
+█     █ ██    ██  █     █
+█ ███ █  ██   ██  █ ███ █
+█ ███ █ █ █ ███   █ ███ █
+█ ███ █  ███  ███ █ ███ █
+█     █ ███ ██ █  █     █
+███████ █ █ █ █ █ ███████
+         ████  █         
+█████ ████   ███ █ █ █ █ 
+ █   █  █  █     █  █  ██
+ ██ █████ █  █ █ █   ████
+█  █ █  █   █ █   █  █ ██
+  █ █ █ █████████ █ ███ █
+█ █  █     █  █ ██    ██ 
+█ █ █ ██ █    ██████████ 
+█ █ ██     █  ███ ██     
+█ █ ████   ████ ██████  █
+        █ ██ █ ██   ███ █  
+███████ █   █ ███ █ █    
+█     █  ██ █   █   ████ 
+█ ███ █ ██   ████████  ██
+█ ███ █ ██     ██ ████  █
+█ ███ █ ███ █ █████     █
+█     █ █ █ █ ██  ███    
+███████ ███ ██ █ █   █  █
 </pre>
 A la place des buletins classique, nous aurions dans l'isoloir une machine electronique qui 
 - affiche un numéro unique
