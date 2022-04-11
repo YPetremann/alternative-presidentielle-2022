@@ -2,15 +2,34 @@
 ---
 
 .columns{
+    &.sticky{
+        align-items: flex-start;
+        &>.column{
+            min-height: 100vh;
+            position: sticky;
+            top: 0;
+        }
+    }
     display:flex;
+    .graphics {
+        min-height: 100vh;
+    }
     .column{
         min-width:320px;
         width:320px;
         flex-grow:1;
     }
 }
+.Buletin-graphics {
+    display:flex;
+    align-content: center;
+    justify-content: center;
+    background: silver;
+    align-items: center;
+}
 .Buletin{
     display: flex;
+    background: white;
     width: 200px;
     height: 100px;
     box-shadow: 0 0 10px black;
