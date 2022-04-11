@@ -1,12 +1,14 @@
 # L'Alternative
 
-La france à un problème de représentation, au jour où seul un cinquiéme de la population est représenté, où les gens décident de ne plus voter parce qu'ils pensent que leur voix n'est pas exprimée.
+La france à un problème de représentation,  
+au jour où seul un cinquiéme de la population est représenté,  
+où les gens décident de ne plus voter parce qu'ils pensent que leur voix n'est pas exprimée.
 
 Il existe des solutions :
 - Pour garantir au moins 50% de satisfaction
 - Pour garantir que le vote est bien pris en compte
-- Pour affaiblir le vote strategique
-- Pour affaiblir la nécéssité de voter blanc ou de s'abstenir
+- Pour éviter le vote strategique
+- Pour éviter la nécéssité de voter blanc ou de s'abstenir
 
 Pour cela il est nécéssaire de :
 - moderniser la procédure de vote : Passer par un système de vote electronique couplé au vote classique
@@ -61,3 +63,4 @@ Avec cette procédure de vote nous augmentons la garantie que chaque vote est vr
 Si en plus nous couplons cela avec un système de vote comme le jugement majoritaire à 50%, il n'y a du coup aucune raison d'abstention ou de voter blanc, et démontre clairement que l'absence d'un élécteur serait du à l'impossibilité de voter.
 
 ## Moderniser le système de vote : Jugement Majoritaire à 50%
+
